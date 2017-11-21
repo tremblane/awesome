@@ -14,6 +14,7 @@
 Random things
 
 - [cdiff](https://github.com/ymattw/cdiff) - View colored, incremental diff in workspace or from stdin with side by side and auto pager support
+- [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 
 ## vim Things
 
