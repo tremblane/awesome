@@ -5,24 +5,19 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [General](#general)
+- [vim Things](#vim-things)
 
 
-## Section
+## General
 
-About this section. Optional. Keep this short and focus on the list.
+Random things
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [cdiff](https://github.com/ymattw/cdiff) - View colored, incremental diff in workspace or from stdin with side by side and auto pager support
 
+## vim Things
 
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [vim-surround](https://github.com/tpope/vim-surround) - Surround.vim is all about "surroundings": parentheses, brackets, quotes, XML tags, and more. The plugin provides mappings to easily delete, change and add such surroundings in pairs.
 
 
 ## Contribute
