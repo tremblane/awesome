@@ -23,7 +23,7 @@ Random things
 
 - [vim-surround](https://github.com/tpope/vim-surround) - Surround.vim is all about "surroundings": parentheses, brackets, quotes, XML tags, and more. The plugin provides mappings to easily delete, change and add such surroundings in pairs.
 
-### Syntax Hilighting
+### Syntax Highlighting
 
 - [ansible-vim](https://github.com/pearofducks/ansible-vim) - A vim plugin for syntax highlighting Ansible's common filetypes
 
