@@ -27,6 +27,9 @@ Random things
 
 - [ansible-vim](https://github.com/pearofducks/ansible-vim) - A vim plugin for syntax highlighting Ansible's common filetypes
 
+## Ubuntu
+
+- [Variety](https://launchpad.net/variety) - Variety changes the wallpaper on a regular interval using user-specified or automatically downloaded images.
 
 ## Contribute
 
