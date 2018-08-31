@@ -13,7 +13,7 @@
 
 Random things
 
-- [cdiff](https://github.com/ymattw/cdiff) - View colored, incremental diff in workspace or from stdin with side by side and auto pager support
+- [ydiff](https://github.com/ymattw/ydiff) - View colored, incremental diff in workspace or from stdin with side by side and auto pager support (formerly known as cdiff)
 - [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 
