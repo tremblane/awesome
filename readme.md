@@ -7,6 +7,7 @@
 
 - [General](#general)
 - [vim Things](#vim-things)
+- [Ubuntu](#ubuntu)
 
 
 ## General
