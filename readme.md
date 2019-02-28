@@ -6,6 +6,7 @@
 ## Contents
 
 - [General](#general)
+- [Command Line Tools](#command-line-tools)
 - [vim Things](#vim-things)
 - [Ubuntu](#ubuntu)
 
@@ -17,6 +18,11 @@ Random things
 - [ydiff](https://github.com/ymattw/ydiff) - View colored, incremental diff in workspace or from stdin with side by side and auto pager support (formerly known as cdiff)
 - [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
+
+## Command Line Tools
+
+- [jq](https://stedolan.github.io/jq/) - jq is a lightweight and flexible command-line JSON processor.
+- [gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 
 ## vim Things
 
