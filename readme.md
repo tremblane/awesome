@@ -24,6 +24,8 @@ Random things
 - [jq](https://stedolan.github.io/jq/) - jq is a lightweight and flexible command-line JSON processor.
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 
+    Tip: `alias gug='gron -u | gron'  #re-do the syntax highlighting after running gron output through a grep`
+
 ## vim Things
 
 ### Plugins
